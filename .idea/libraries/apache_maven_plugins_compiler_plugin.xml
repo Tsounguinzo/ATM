@@ -1,0 +1,34 @@
+<component name="libraryTable">
+  <library name="apache.maven.plugins.compiler.plugin" type="repository">
+    <properties maven-id="org.apache.maven.plugins:maven-compiler-plugin:3.10.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/maven-compiler-plugin-3.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/maven-shared-utils-3.3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/maven-shared-incremental-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/plexus-component-annotations-1.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/plexus-java-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/asm-9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/qdox-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/plexus-compiler-api-2.11.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/plexus-utils-3.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/plexus-compiler-manager-2.11.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/plexus-compiler-javac-2.11.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/maven-compiler-plugin-3.10.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/maven-shared-utils-3.3.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-2.6-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/maven-shared-incremental-1.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/plexus-component-annotations-1.5.5-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/plexus-java-1.1.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/asm-9.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/qdox-2.0.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/plexus-compiler-api-2.11.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/plexus-utils-3.4.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/plexus-compiler-manager-2.11.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/plexus-compiler-javac-2.11.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,32 @@
+2023-03-10 22:11:29 [main] INFO  c.m.a.logging.FileTransactionLogger - Transaction logged
+Transaction ID: 52dfc1fc-9382-44da-a1b7-615f1f1055d4
+Type: WITHDRAWAL
+Amount: 10
+From Client ID: 03e9bc093
+From Account ID: 1
+Timestamp: 2023-03-10T22:11:29.882707
+
+2023-03-10 22:11:29 [main] INFO  c.m.a.logging.FileTransactionLogger - Transaction logged
+Transaction ID: 52dfc1fc-9382-44da-a1b7-615f1f1055d4
+Type: WITHDRAWAL
+Amount: 10
+From Client ID: 03e9bc093
+From Account ID: 1
+Timestamp: 2023-03-10T22:11:29.882707
+
+2023-03-10 22:12:12 [main] INFO  c.m.a.logging.FileTransactionLogger - Transaction logged
+Transaction ID: 189aff1a-41de-4769-9ac4-974629820940
+Type: DEPOSIT
+Amount: 199
+From Client ID: 03e9bc093
+From Account ID: 1
+Timestamp: 2023-03-10T22:12:12.586856700
+
+2023-03-10 22:12:12 [main] INFO  c.m.a.logging.FileTransactionLogger - Transaction logged
+Transaction ID: 189aff1a-41de-4769-9ac4-974629820940
+Type: DEPOSIT
+Amount: 199
+From Client ID: 03e9bc093
+From Account ID: 1
+Timestamp: 2023-03-10T22:12:12.586856700
+
